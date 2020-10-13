@@ -87,4 +87,4 @@
   <a href="#"><img alt="Yoddha99's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoddha99&langs_count=10&layout=compact#" /></a>
 </p>
 
-<h3 align="center">Click here to see <a href="https://github.com/Yoddha99?tab=repositories">my repos</a>! Feedback is appreciated</h3>
+<h3 align="center">⬇ Scroll down to see <a href="https://github.com/Yoddha99?tab=repositories">my repos</a>! Feedback is appreciated</h3>
