@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://twitter.com/GeekFreak404"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/GeekFreak404?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/Yoddha99"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Yoddha99?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/Yoddha99"></a> ![counter](https://en4g2u6m7my8anq.m.pipedream.net)
+  <a href="https://github.com/Yoddha99"></a> ![counter](https://visitor-badge.glitch.me/badge?page_id=Yoddha99.Yoddha99)
 </p>
 
 
