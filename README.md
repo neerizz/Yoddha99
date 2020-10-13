@@ -3,8 +3,8 @@
 <h3 align="center">Hey there, I'm <a href="http://niraj.rf.gd/about.html">Niraj</a>!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 <p align="center">
-  <a href="https://twitter.com/GeekFreak404"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/DenverCoder1?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://github.com/Yoddha99"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DenverCoder1?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://twitter.com/GeekFreak404"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/GeekFreak404?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/Yoddha99"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Yoddha99?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
   <a href="https://github.com/Yoddha99">![counter](https://enpq90y0dniq2lz.m.pipedream.net)</a>
 </p>
 
