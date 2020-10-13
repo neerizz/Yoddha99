@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://twitter.com/GeekFreak404"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/GeekFreak404?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/Yoddha99"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Yoddha99?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/Yoddha99"></a> ![counter](https://en4g2u6m7my8anq.m.pipedream.net)
+  <a href="https://github.com/Yoddha99"></a> [![counter](https://en4g2u6m7my8anq.m.pipedream.net)](https://github.com/Yoddha99)
 </p>
 
 
@@ -87,4 +87,4 @@
   <a href="#"><img alt="Yoddha99's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoddha99&langs_count=10&layout=compact#" /></a>
 </p>
 
-<h3 align="center">Click here to see <a href="https://github.com/Yoddha99?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
+<h3 align="center">Click here to see <a href="https://github.com/Yoddha99?tab=repositories">my repos</a>! Feedback is appreciated!</h3>
