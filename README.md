@@ -16,7 +16,7 @@
 * 🖥️ I make web apps and websites using PHP and flask
 * 🎓 I'm a Computer Science student (graduating in June 2022)
 * 🌐 I enjoy dabbling around with python automating my tasks
-* ♔ I love playing chess
+* ♔ I love solving problems and playing chess
 
 <p align="left">
   <a href="http://niraj.rf.gd/?i=1"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-008888?style=for-the-badge&logo=koding&logoColor=white"/></a>
