@@ -83,7 +83,7 @@
 ## 📈 Github Stats
 
 <p align="left">
-  <a href="#"><img alt="Yoddh99's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yoddha99&show_icons=true&count_private=true&hide=" /></a> 
+  <a href="#"><img alt="Yoddh99's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yoddha99&theme=tokyonight&show_icons=true" /></a> 
   <a href="#"><img alt="Yoddha99's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoddha99&langs_count=10&layout=compact#" /></a>
 </p>
 
