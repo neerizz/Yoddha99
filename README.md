@@ -19,7 +19,7 @@
 * ♔ I love solving problems and playing chess
 
 <p align="left">
-  <a href="http://niraj.rf.gd/?i=1"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-008888?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://yoddha99.github.io/Portfolio-v2/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-008888?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 ## 🙋‍♂️ Connect with me:
